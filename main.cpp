@@ -11,7 +11,7 @@
 // Format checker just assumes you have Alarm.bif and Solved_Alarm.bif (your file) in current directory
 using namespace std;
 
-// Our graph consists of a list of nodes where each node is represented as follows:
+// The graph consists of a list of nodes where each node is represented as follows:
 class Graph_Node{
 
 private:
