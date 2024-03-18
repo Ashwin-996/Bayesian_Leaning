@@ -1,5 +1,5 @@
 CPP = g++-12
 
 all : startup_code.cpp 
-	@$(CPP) startup_code.cpp -o hello
-	@./hello alarm.bif records.dat
+	@$(CPP) main.cpp -o main
+	@./main alarm.bif records.dat
