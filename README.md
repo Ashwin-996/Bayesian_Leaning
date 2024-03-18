@@ -78,3 +78,10 @@ alarm.bif, solved_alarm.bif and gold_alarm.bif are present in current directory 
 <br>
 <br>
 <b>solved_alarm.bif</b> - output file containing learned probabilities.
+<br>
+
+## Instructions to run code :
+Run the following commands in the same order :
+<pre>
+    make
+</pre>
